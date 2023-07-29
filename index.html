@@ -1,44 +1,110 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Techy</title>
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/PerryPal21/perry.css@master/perry.css"
-    />
-  </head>
-  <body>
-    <style>
-      .msg {
-        background-color: #2b3a4c;
-        padding: 20px;
-      }
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kastg API</title>
+    <head>
+     <header>
+        <img src="https://cdn.discordapp.com/icons/1076550876023492648/33edd5b229bb2add252ff8119693d0fa.webp?size=4096" alt="Kastg API Logo" height="50">
+      </header>
+      <link rel="icon" type="image/png" sizes="300x250" href="icon/Kast-1.png">
+      <style>
+        body {
+          background-image: url('https://cdn.discordapp.com/attachments/1076557581583134801/1121811288817942680/Leonardo_Diffusion_awesome_background_Image_black_in_color_wit_0.jpg');
+          background-size: cover;
+          background-repeat: repeat;
+          background-position: center center;
+          text-align: center;
+          font-family: Arial, sans-serif;
+          color: white;
+          position: relative;
+          padding-top: 20px;
+          overflow: hidden; /* Prevents white pages from appearing */
+        }
+        h3 {
+          margin-top: 50px;
+          font-size: 24px;
+          text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+          transition: text-shadow 0.5s ease;
+        }
+        .button-container {
+          display: flex;
+          justify-content: center;
+          margin-top: 20px;
+          transition: transform 0.5s ease;
+        }
+        .button {
+          display: inline-block;
+          padding: 10px 20px;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          text-decoration: none;
+          border-radius: 10px;
+          margin: 10px;
+          background-color: lightpink;
+          color: white;
+          border: none;
+          cursor: pointer;
+          transition: background-color 0.5s ease, transform 0.5s ease;
+          transform: translateX(0);
+        }
+        .button:hover {
+          background-color: coral;
+          transform: translateX(-5px);
+        }
+        .discord-button {
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          background-color: transparent;
+          border: none;
+          cursor: pointer;
+          transition: transform 0.5s ease;
+        }
+        .discord-button img {
+          width: 30px;
+          height: 30px;
+        }
+        .discord-button:hover img {
+          filter: brightness(120%);
+        }
+      </style>
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          alert('Welcome to the Kastg API!'); // Show browser notification on page load
 
-      .center {
-        text-align: center;
-      }
-    </style>
-    <div class="container">
-      <h1>Techy</h1>
-      <p>Generate cool tech-savvy sounding phrases easily</p>
-      <br>
-      <hr>
-      <h4>How to use:</h4>
-      <p>
-        Output in Plaintext ->
-        <a href="/api/text"><code>/api/text</code></a>
-      </p>
-      <br>
-      <p>
-        Output in JSON -> <a href="/api/json"><code>/api/json</code></a>
-      </p>      
-      <br>
-      <br>
-      <a href="https://perrypal.xyz">Made By PerryPal</a> and
-      <a href="https://github.com/PerryPal21/Techy-API">Source Code</a>
-    </div>
-  </body>
-</html>
+          var body = document.querySelector('body');
+          var h3 = document.querySelector('h3');
+          var buttonContainer = document.querySelector('.button-container');
+
+          function handleMouseMove(e) {
+            var xPos = e.clientX / window.innerWidth;
+            var yPos = e.clientY / window.innerHeight;
+            var xShift = (xPos - 0.5) * 30;
+            var yShift = (yPos - 0.5) * 30;
+            body.style.backgroundPosition = xShift + 'px ' + yShift + 'px';
+            h3.style.textShadow = xShift / 4 + 'px ' + yShift / 4 + 'px 5px rgba(0, 0, 0, 0.3)';
+            buttonContainer.style.transform = 'translateX(' + -xShift / 6 + 'px)';
+          }
+
+          body.addEventListener('mousemove', handleMouseMove);
+        });
+        
+        document.addEventListener('contextmenu', function(e) {
+          e.preventDefault();
+        });
+      </script>
+    </head>
+    <body>
+      <h3>Welcome to the Kastg API!</h3>
+      <p>Explore the amazing features:</p>
+      <div class="button-container">
+        <a href="/api/meme" class="button">Fun Section</a>
+      </div>
+      <a href="https://discord.gg/eSGmEKJEed" class="discord-button">
+        <img src="https://cdn.discordapp.com/attachments/1076557581583134801/1121814112901550100/pngwing.com.png" alt="Discord Logo">
+      </a>
+    </body>
+    </html>
