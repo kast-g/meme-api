@@ -1,10 +1,11 @@
 {
-  {"routes": [
-    {
-      "src": "/meme"
-      "method": [
-        "GET"
-      ],
-    }
-  ]
+    {"routes": [
+      {
+        "src": "/meme"
+        "method": [
+          "GET"
+        ],
+      }
+    ]
+  }
 }
