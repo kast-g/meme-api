@@ -1299,7 +1299,1032 @@ module.exports = async (req, res) => {
           title: 'Off with their heads',
           url: 'https://i.imgur.com/hf060Gf.jpeg'
         },
-        {  
+        
+  {
+    "title": "Just…why?",
+    "url": "https://i.redd.it/oy9fvvp2yfhb1.jpg"
+  },
+  {
+    "title": "Scum of the earth",
+    "url": "https://i.redd.it/kwg4p7ip5ihb1.jpg"
+  },
+  {
+    "title": "Edge begged me not to when I tried downloading Chrome from it...",
+    "url": "https://i.redd.it/fk2iqhfsdhhb1.jpg"
+  },
+  {
+    "title": "Distracted boyfriend meme but spiced up by AI",
+    "url": "https://i.redd.it/m3poai335ihb1.png"
+  },
+  {
+    "title": "IDK what to say",
+    "url": "https://i.redd.it/94hwf3bbighb1.jpg"
+  },
+  {
+    "title": "\"To infinity and... beyond?\"",
+    "url": "https://i.redd.it/xhqhzfz9aghb1.jpg"
+  },
+  {
+    "title": "double one double one",
+    "url": "https://i.redd.it/lcwtuxrithhb1.jpg"
+  },
+  {
+    "title": "A damn good deal",
+    "url": "https://i.redd.it/9m8uzq22hihb1.jpg"
+  },
+  {
+    "title": "USA or Europe?",
+    "url": "https://i.redd.it/fv260z8prihb1.jpg"
+  },
+  {
+    "title": "Poor&lt;Rich",
+    "url": "https://i.redd.it/fgjidu4c0jhb1.jpg"
+  },
+  {
+    "title": "It really do be a vibe",
+    "url": "https://v.redd.it/hy9q9jlw6jhb1"
+  },
+  {
+    "title": "Giant sharks never fail to print money",
+    "url": "https://i.redd.it/vlsuimk6fghb1.png"
+  },
+  {
+    "title": "I simply cannot",
+    "url": "https://i.redd.it/ps2v0qs13lhb1.jpg"
+  },
+  {
+    "title": "Not very natural",
+    "url": "https://i.redd.it/lm0d9er47hhb1.jpg"
+  },
+  {
+    "title": "Show some respect to your deity.",
+    "url": "https://i.redd.it/j39j2n9urhhb1.png"
+  },
+  {
+    "title": "Most of them, anyway",
+    "url": "https://i.redd.it/ar457xcrkhhb1.jpg"
+  },
+  {
+    "title": "“Should Had Floss More”",
+    "url": "https://v.redd.it/wq8v182c2hhb1"
+  },
+  {
+    "title": "Ok how tho",
+    "url": "https://i.redd.it/bqk6p0y7vghb1.jpg"
+  },
+  {
+    "title": "Surprised Pikachu face",
+    "url": "https://i.redd.it/ga0b9p7azhhb1.jpg"
+  },
+  {
+    "title": "Sincerely, a canadian",
+    "url": "https://i.redd.it/7899fg4lclhb1.png"
+  },
+  {
+    "title": "Idk if any of y'all have eaten deep dish pineapple pizza, but it's good",
+    "url": "https://i.redd.it/mx7e6pquclhb1.jpg"
+  },
+  {
+    "title": "My Time Has Come",
+    "url": "https://v.redd.it/t0l5pk3ssjhb1"
+  },
+  {
+    "title": "What da Giraffe doing?",
+    "url": "https://v.redd.it/em9dabv7uhhb1"
+  },
+  {
+    "title": "Which route did you take?",
+    "url": "https://i.redd.it/3pw2m5f4vihb1.png"
+  },
+  {
+    "title": "Just something I and a few friends of mine noticed.",
+    "url": "https://i.redd.it/e7614kg2zghb1.png"
+  },
+  {
+    "title": "No matter what universe you are from that's gotta hurt.",
+    "url": "https://i.redd.it/fmwlpf1tmmhb1.jpg"
+  },
+  {
+    "title": "Don't forget your curtains",
+    "url": "https://i.redd.it/jkgsgud5xlhb1.jpg"
+  },
+  {
+    "title": "What's the deal with this haircut?",
+    "url": "https://i.redd.it/cxq3g4ktwlhb1.jpg"
+  },
+  {
+    "title": "wow pixar",
+    "url": "https://i.redd.it/ibom1h754mhb1.jpg"
+  },
+  {
+    "title": "I ain’t trust anyone.",
+    "url": "https://i.redd.it/rw5yj52pglhb1.jpg"
+  },
+  {
+    "title": "Guys, hear me out..",
+    "url": "https://i.redd.it/k9yp1hktrkhb1.png"
+  },
+  {
+    "title": "You guys served well",
+    "url": "https://i.redd.it/9ehvzjln7jhb1.jpg"
+  },
+  {
+    "title": "L i o n s",
+    "url": "https://i.redd.it/koy8lldcbjhb1.jpg"
+  },
+  
+  {
+    "title": "Off to MgRonalds to buy some 🍟!",
+    "url": "https://i.redd.it/uu89r44bjlhb1.jpg"
+  },
+  {
+    "title": "✨The Glare✨",
+    "url": "https://i.redd.it/cxvs3h1nukhb1.jpg"
+  },
+  {
+    "title": "They're hopeful, I'll give em that.",
+    "url": "https://i.redd.it/wmsmpdli8khb1.jpg"
+  },
+  {
+    "title": "Excuses",
+    "url": "https://i.redd.it/5mv0xgcg7jhb1.jpg"
+  },
+  {
+    "title": "Something I noticed watching both series.",
+    "url": "https://i.redd.it/9ons4grjxhhb1.jpg"
+  },
+  {
+    "title": "He makes me repeat the season 1 tho",
+    "url": "https://i.redd.it/reywpnwrhhhb1.jpg"
+  },
+  {
+    "title": "🥲",
+    "url": "https://i.redd.it/2f49tcux2hhb1.jpg"
+  },
+  {
+    "title": "Reason why I always want to my aunt",
+    "url": "https://i.redd.it/lfv9a8h0jghb1.png"
+  },
+  {
+    "title": "The Risk I Took",
+    "url": "https://i.redd.it/9ee7tzux7ghb1.jpg"
+  },
+  {
+    "title": "I love anime openings",
+    "url": "https://i.redd.it/p9z6d1ozxfhb1.png"
+  },
+  {
+    "title": "My life",
+    "url": "https://i.redd.it/fwkn2h2r4fhb1.jpg"
+  },
+  {
+    "title": "I guess Dachshunds are best counter for tsukuyomi 😂",
+    "url": "https://i.redd.it/boh9h8apiehb1.jpg"
+  },
+  {
+    "title": "I'm a pirate",
+    "url": "https://i.redd.it/25spgmydgehb1.jpg"
+  },
+  {
+    "title": "I'm watching you guys",
+    "url": "https://i.redd.it/grvvx1xicdhb1.jpg"
+  },
+  {
+    "title": "Raise your hand if you can relate. 😁",
+    "url": "https://i.redd.it/3yaqj39imchb1.jpg"
+  },
+  {
+    "title": "I have legit seen people in anime spaces not know this character/her series.",
+    "url": "https://i.redd.it/iery4cbkkahb1.jpg"
+  },
+  {
+    "title": "Pretty much(I haven't watched one piece yet💀😭)",
+    "url": "https://i.redd.it/3lcu3brx69hb1.png"
+  },
+  {
+    "title": "I've seen a lot of critiques on him for this.",
+    "url": "https://i.redd.it/jwu1eqtq8ahb1.png"
+  },
+  {
+    "title": "The Origin of Nijika's Stone",
+    "url": "https://i.redd.it/rhf9fzkau9hb1.jpg"
+  },
+  {
+    "title": "TO TRUE—",
+    "url": "https://i.redd.it/i94c165wywgb1.jpg"
+  },
+  {
+    "title": "You can trust this Totally Normal Cat, can't you?",
+    "url": "https://i.redd.it/gmwptczecwgb1.jpg"
+  },
+  {
+    "title": "Armin's reason",
+    "url": "https://youtu.be/eOK6r2Dsj5c"
+  },
+  {
+    "title": "Really splitting the babies at that point",
+    "url": "https://i.redd.it/bswsssoymxgb1.png"
+  },
+  {
+    "title": "KonoHeimer",
+    "url": "https://i.redd.it/bk8y6wfkfvgb1.jpg"
+  },
+  
+    {
+      "title": "Thank you to everyone that participated in this final poll. Tomorrow I'll finally get back to what you come here for... memes.",
+      "url": "https://i.redd.it/7zm0ml8kxlhb1.jpg"
+    },
+    {
+      "title": "5 more hours until the poll closes... I'm posting this with the li k to the poll because it got buried in the original post... see comment thread for link. Vote!",
+      "url": "https://i.redd.it/hlg4yxrickhb1.jpg"
+    },
+    {
+      "title": "I'm not voted out yet... so, here's a meme from Aggravating_Move_179 for your viewing pleasure.",
+      "url": "https://i.redd.it/ae5kcu1t5khb1.jpg"
+    },
+    ,
+    {
+      "title": "u/Roll4initiativefools",
+      "url": "https://i.redd.it/cpwajr0modhb1.jpg"
+    },
+    {
+      "title": "It's a one shot 3 hour cruise...",
+      "url": "https://i.redd.it/i9u1znfe9dhb1.jpg"
+    },
+    {
+      "title": "Pro tip #5...",
+      "url": "https://i.redd.it/6lw0v6f19dhb1.jpg"
+    },
+    {
+      "title": "For good or for bad... it's not a wasted life if they remember your name. Hi, my names Travis.",
+      "url": "https://i.redd.it/x8h852iivchb1.jpg"
+    },
+    {
+      "title": "Well... 5pm @ 9475. Looks like memes back on the menu boys.",
+      "url": "https://i.redd.it/3upe10vamchb1.jpg"
+    },
+    {
+      "title": "It has come to my attention that some members here would like me to stop posting memes. The fair thing is to let r/dndmemes members decide by a vote. By tomorrow 08/10/23 @ 5pm, if this meme is downvoted, I'll stop posting. If it's upvoted, I'll continue posting.",
+      "url": "https://i.redd.it/j5mselnda5hb1.jpg"
+    },
+    {
+      "title": "Squids have had their tentacles in that old magic for a lonnnnnnng time..",
+      "url": "https://i.redd.it/sl3o8gf5r4hb1.jpg"
+    },
+    {
+      "title": "Never to old to start adding up dice!",
+      "url": "https://i.redd.it/ga7puvjoi4hb1.jpg"
+    },
+    {
+      "title": "Wizard_Pikachu",
+      "url": "https://i.redd.it/p5j3n9iv04hb1.jpg"
+    },
+    {
+      "title": "...and the eternal dance keeps going on and on and on...",
+      "url": "https://i.redd.it/ngochg8eh3hb1.jpg"
+    },
+    {
+      "title": "Many of us need these services ASAP...",
+      "url": "https://i.redd.it/uqpxmc6fn2hb1.jpg"
+    },
+    {
+      "title": "TheScowl117",
+      "url": "https://i.redd.it/zfu14qkcmzgb1.jpg"
+    },
+    {
+      "title": "More often than not when the DM says \"I'll allow it\" they have no idea what they're allowing... and God bless 'em for it!",
+      "url": "https://i.redd.it/9tkvyzl3jzgb1.jpg"
+    },
+    {
+      "title": "Patrons can't take away powers they granted, maybe... maybe not. But they sure as hell can find ways to fuck with em.",
+      "url": "https://i.redd.it/y9lnhdrutygb1.jpg"
+    },
+    {
+      "title": "Improv D&amp;D is Best D&amp;D",
+      "url": "https://i.redd.it/19enwhzokxgb1.jpg"
+    },
+    {
+      "title": "No Retreat, No Surrender...",
+      "url": "https://i.redd.it/cels67dl3xgb1.jpg"
+    },
+    {
+      "title": "Gen X for sure...",
+      "url": "https://i.redd.it/dk177ljhpwgb1.jpg"
+    },
+    {
+      "title": "The hero that we need...",
+      "url": "https://i.redd.it/086vfy435wgb1.jpg"
+    },
+    {
+      "title": "There is some truth to this...",
+      "url": "https://i.redd.it/1pcepb8hjvgb1.jpg"
+    },
+    {
+      "title": "But... who's who in the picture...",
+      "url": "https://i.redd.it/e18saiof7sgb1.jpg"
+    },
+  {
+    "title": "Big brain time",
+    "url": "https://i.redd.it/kygxkqi1yihb1.jpg"
+  },
+  {
+    "title": "They did Young Justice dirty",
+    "url": "https://i.redd.it/w40mdfd8xkhb1.jpg"
+  },
+  {
+    "title": "Hi 7 people who will see this on new",
+    "url": "https://i.redd.it/dflitzk1fjhb1.jpg"
+  },
+  {
+    "title": "Who?",
+    "url": "https://i.redd.it/yra1inezolhb1.png"
+  },
+  {
+    "title": "the art of minecraft",
+    "url": "https://i.redd.it/60500d7x5khb1.png"
+  },
+  {
+    "title": "Peak of frustration",
+    "url": "https://i.redd.it/sqihbgq76mhb1.jpg"
+  },
+  {
+    "title": "Man, these intrusive thoughts caught me lacking (Artist: Neneneqo)",
+    "url": "https://i.redd.it/yjjp6ghszfhb1.png"
+  },
+  {
+    "title": "Happy wending",
+    "url": "https://i.redd.it/x52zn68qgkhb1.png"
+  },
+  {
+    "title": "The math/science dou",
+    "url": "https://i.redd.it/azoptf8b7lhb1.jpg"
+  },
+  {
+    "title": "The core",
+    "url": "https://i.redd.it/0jg3u0gfjhhb1.jpg"
+  },
+  {
+    "title": "Probably slaps hard with a little ranch dressing",
+    "url": "https://i.redd.it/9zmnci3z4ihb1.jpg"
+  },
+  {
+    "title": "Oh well",
+    "url": "https://i.redd.it/7mjd2z5r5lhb1.jpg"
+  },
+  {
+    "title": "Real ones know",
+    "url": "https://i.redd.it/xpzs4fy6xmhb1.png"
+  },
+  {
+    "title": "Another soldier is on the ground",
+    "url": "https://i.redd.it/irbmjfhvzghb1.jpg"
+  },
+  {
+    "title": "All i can say is \"Genius\"",
+    "url": "https://i.redd.it/ovnh8ay7ujhb1.jpg"
+  },
+  {
+    "title": "play until we lose",
+    "url": "https://i.redd.it/7bsyfwibzlhb1.jpg"
+  },
+  {
+    "title": "Accurate",
+    "url": "https://i.redd.it/htvdribc0lhb1.jpg"
+  },
+  {
+    "title": "Say \"beam attack\" or \"dinky ass\" one more god damn time.",
+    "url": "https://i.redd.it/2lwy7ae5sjhb1.jpg"
+  },
+  {
+    "title": "Real catastrophe.",
+    "url": "https://i.redd.it/nierwkrf3ihb1.png"
+  },
+  {
+    "title": "Bro 😭😭",
+    "url": "https://i.redd.it/mczw1z9tfihb1.png"
+  },
+  {
+    "title": "You're memeing in the wrong way, sir.",
+    "url": "https://i.redd.it/bbi7lh8mbmhb1.jpg"
+  },
+  {
+    "title": "Ain’t that the truth…",
+    "url": "https://i.redd.it/gejbliue9ihb1.jpg"
+  },
+  {
+    "title": "Acceleration",
+    "url": "https://i.redd.it/pcex38ygymhb1.jpg"
+  },
+  {
+    "title": "Sadly, this only happens nowadays.",
+    "url": "https://i.redd.it/h9u728714nhb1.jpg"
+  },
+  {
+    "title": "It’s genuinely awful",
+    "url": "https://i.redd.it/qt0stu8jtkhb1.jpg"
+  },
+  
+    {
+      "author": "rextraneous",
+      "title": "A short story",
+      "post_hint": "image",
+      "url": "https://i.redd.it/70zdjiilli351.jpg"
+    },
+    {
+      "author": "BlackAdder7",
+      "title": "She did her best ok?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/g4vm7de3q4j51.jpg"
+    },
+    {
+      "author": "theonlymexicanman",
+      "title": "This house ain’t big enough for the six of us",
+      "post_hint": "image",
+      "url": "https://i.redd.it/x4s2e60m7vm41.jpg"
+    },
+    {
+      "author": "GGezpzMuppy",
+      "title": "They what???",
+      "post_hint": "image",
+      "url": "https://i.imgur.com/KpwIuSO.png"
+    },
+    {
+      "author": "blityc",
+      "title": "I feel privileged",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ttfhavjmd1x51.png"
+    },
+    {
+      "author": "achilles-_-23",
+      "title": "This is my jam",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ycrjw204b9e61.gif"
+    },
+    {
+      "author": "PrettyCoolTim",
+      "title": "uncanny resemblance",
+      "post_hint": "image",
+      "url": "https://i.redd.it/cul580390k661.jpg"
+    },
+    {
+      "author": "Zlecklamar",
+      "title": "Hmmmmmmmmmm",
+      "post_hint": "image",
+      "url": "https://i.redd.it/c06hvlfni9651.jpg"
+    },
+    {
+      "author": "Pringles__",
+      "title": "We are doomed",
+      "post_hint": "image",
+      "url": "https://i.redd.it/vmadxu8d51o41.jpg"
+    },
+    {
+      "author": "beakf",
+      "title": "Wait I didn't mean it like that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/n4ildkpurph61.png"
+    },
+    {
+      "author": "kakara92",
+      "title": "Who's Donald Biden?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/63l9c85hmex51.jpg"
+    },
+    {
+      "author": "Dzigi14",
+      "title": "Finland op",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ncrm4syv08r41.jpg"
+    },
+    {
+      "author": "ludicrosity548",
+      "title": "thank god",
+      "post_hint": "image",
+      "url": "https://i.redd.it/djw0xedkm8z81.gif"
+    },
+    {
+      "author": "ManiacKnight05",
+      "title": "Team monke",
+      "post_hint": "image",
+      "url": "https://i.redd.it/y5q2ylf36gm61.jpg"
+    },
+    {
+      "author": "justlooking033",
+      "title": "What a shame",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hnwx02w0t6e61.jpg"
+    },
+    {
+      "author": "I_AM_BATMAN_69",
+      "title": "Ukraine got CHAD Volodymyr Zelensky.🇺🇦🇺🇦🇺🇦",
+      "post_hint": "image",
+      "url": "https://i.redd.it/p6hpt00hl0k81.jpg"
+    },
+    {
+      "author": "WhatTheMat",
+      "title": "Confusing",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2v3ucovw2dk51.jpg"
+    },
+    {
+      "author": "[deleted]",
+      "title": "It took so many hours",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hujzswawcsf51.jpg"
+    },
+    {
+      "author": "the_sinking_boat",
+      "title": "Moms are the real MVPs",
+      "post_hint": "link",
+      "url": "http://i.imgur.com/OyrGZMr.gifv"
+    },
+    {
+      "author": "heycanwedie",
+      "title": "Simpsons predicted it yet again",
+      "post_hint": "image",
+      "url": "https://i.redd.it/mt1p2undiwo31.jpg"
+    },
+    {
+      "author": "PowerfulOperation8",
+      "title": "Placebo in a nutshell",
+      "post_hint": "image",
+      "url": "https://i.redd.it/cjtg6wdt99951.jpg"
+    },
+    {
+      "author": "AwesomeAdviceBot",
+      "title": "15 years from now",
+      "post_hint": "image",
+      "url": "https://i.redd.it/kvb5q07e27x41.jpg"
+    },
+    {
+      "author": "TheOutSider154",
+      "title": "Captain Holt is best boi",
+      "post_hint": "image",
+      "url": "https://i.redd.it/nzkdkyfr2hz41.jpg"
+    },
+    {
+      "author": "XDEC0DE",
+      "title": "It was fun doe",
+      "post_hint": "image",
+      "url": "https://i.redd.it/b11mbpxapxg51.jpg"
+    },
+    {
+      "author": "bingman_",
+      "title": "You think you are sad",
+      "post_hint": "image",
+      "url": "https://i.redd.it/rohlh1e8k0n41.jpg"
+    },
+    {
+      "author": "_Floydian",
+      "title": "Reddit might be shit but it's our shit.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/l8yz2fyk3hr71.jpg"
+    },
+    {
+      "author": "mistermuesli",
+      "title": "Of course I know him. He is me",
+      "post_hint": "image",
+      "url": "https://i.redd.it/kwcqipuz5il51.jpg"
+    },
+    {
+      "author": "Godhemself",
+      "title": "These are confusing times",
+      "post_hint": "image",
+      "url": "https://i.redd.it/4gju47kt3hb61.jpg"
+    },
+    {
+      "author": "beakf",
+      "title": "Wait I didn't mean it like that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/n4ildkpurph61.png"
+    },
+    {
+      "author": "kones_6999",
+      "title": "Don't be mad",
+      "post_hint": "image",
+      "url": "https://i.redd.it/gsqgq6uwuau51.jpg"
+    },
+    {
+      "author": "elch3w",
+      "title": "Well its pretty similar...",
+      "post_hint": "image",
+      "url": "https://i.redd.it/8ze5zhn5m1g61.gif"
+    },
+    {
+      "author": "tusharsagar",
+      "title": "My life was a lie.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/spe7qpjedcv61.gif"
+    },
+    {
+      "author": "Wrobbo09",
+      "title": "Oh no you don’t",
+      "post_hint": "hosted:video",
+      "url": "https://v.redd.it/h58jtjhurq561"
+    },
+    {
+      "author": "imaduco",
+      "title": "Always has been",
+      "post_hint": "image",
+      "url": "https://i.redd.it/29h8ntdldma51.jpg"
+    },
+    {
+      "author": "Morchel03",
+      "title": "Oh god no",
+      "post_hint": "image",
+      "url": "https://i.redd.it/w98k1i6ce4761.gif"
+    },
+    {
+      "author": "FreddyKrum",
+      "title": "That's the reason behind all these",
+      "post_hint": "image",
+      "url": "https://i.redd.it/72ofect87t751.jpg"
+    },
+    {
+      "author": "prestidigitator97",
+      "title": "That's a 5 stars from me",
+      "post_hint": "image",
+      "url": "https://i.redd.it/omyyroc83w551.jpg"
+    },
+    {
+      "author": "menovat",
+      "title": "Wow, someone knows we exist",
+      "post_hint": "image",
+      "url": "https://i.redd.it/dyecygddx4i51.jpg"
+    },
+    {
+      "author": "[deleted]",
+      "title": "Everytime",
+      "post_hint": "image",
+      "url": "https://i.redd.it/emn90d5nbqn51.jpg"
+    },
+    {
+      "author": "Onetimeguy8",
+      "title": "Wish her luck boys",
+      "post_hint": "image",
+      "url": "https://i.redd.it/fnbkdh8fwza91.gif"
+    },
+    {
+      "author": "yamideath",
+      "title": "Hey Blizzard, I heard you like China's money ?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/uonxofnh1gr31.jpg"
+    },
+    {
+      "author": "MeMe-God-7",
+      "title": "Brain.exe has commit DIE",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ojd7xhofyz951.png"
+    },
+    {
+      "author": "theFLUFF131",
+      "title": "Look who's laughing now",
+      "post_hint": "image",
+      "url": "https://i.redd.it/qtmo4imk5ry41.jpg"
+    },
+    {
+      "author": "OhMyGodItsLiquid",
+      "title": "I mean I basically made him rich",
+      "post_hint": "image",
+      "url": "https://i.redd.it/yne085xajui41.jpg"
+    },
+    {
+      "author": "sarcasticnepali2058",
+      "title": "chadflix",
+      "post_hint": "image",
+      "url": "https://i.redd.it/te95nxfwxl471.png"
+    },
+    {
+      "author": "tteeggeerr",
+      "title": "please enjoy",
+      "post_hint": "image",
+      "url": "https://i.redd.it/rgce12mplle51.jpg"
+    },
+    {
+      "author": "RegularNoodles",
+      "title": "*bumps head* maybe I’m Godzilla?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ger0ho5tg9w51.jpg"
+    },
+    {
+      "author": "bumblebee2496",
+      "title": "Real SOMA ULTE ❤️",
+      "post_hint": "image",
+      "url": "https://i.redd.it/y4ubkjfo6nq51.jpg"
+    },
+    {
+      "author": "swante_taggart",
+      "title": "Modern day pirate",
+      "post_hint": "image",
+      "url": "https://i.redd.it/vdfvhoq1lge61.jpg"
+    },
+    {
+      "author": "mohak_soni",
+      "title": "Chrome lite for pc",
+      "post_hint": "image",
+      "url": "https://i.imgur.com/9JW6gmL.jpg"
+    },
+    {
+      "author": "Everseer12",
+      "title": "can someone explain it",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2my2zdc4pa251.jpg"
+    },
+    {
+      "author": "bruggekiller",
+      "title": "It really do be like that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hu25l44ii6o41.jpg"
+    },
+    {
+      "author": "drugs-and-group-hugs",
+      "title": "It’s been real fam.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/evqhhdqqbt961.jpg"
+    },
+    {
+      "author": "hin2u",
+      "title": "Oh look, Reddit",
+      "post_hint": "image",
+      "url": "https://i.redd.it/reux0cdxhan51.jpg"
+    },
+    {
+      "author": "[deleted]",
+      "title": "He is the chosen one. He will bring the change",
+      "post_hint": "image",
+      "url": "https://i.redd.it/isw5svf6zbw61.jpg"
+    },
+    {
+      "author": "GaydolfHipster",
+      "title": "Wanna hear another joke",
+      "post_hint": "image",
+      "url": "https://i.redd.it/00zo3ians0e61.jpg"
+    },
+    {
+      "author": "GravyxNips",
+      "title": "Right as rain after that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/1wniz8ionv351.jpg"
+    },
+    {
+      "author": "IDontHaveAName666",
+      "title": "Licensed Dad Joke",
+      "post_hint": "image",
+      "url": "https://i.redd.it/nrj9smsfek951.jpg"
+    },
+    {
+      "author": "Ronaldit0",
+      "title": "Phew. That was a close one.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2b6zkpyh98x51.png"
+    },
+    {
+      "author": "I_AM_YUGESH",
+      "title": "Following your passion is hard in Asia",
+      "post_hint": "image",
+      "url": "https://i.redd.it/7ux0uk3llrc51.jpg"
+    },
+    {
+      "author": "ChiggyBiggyG",
+      "title": "Do dee do dee doo. Whoops!",
+      "post_hint": "image",
+      "url": "https://i.redd.it/mogqphv12mi61.gif"
+    },
+    {
+      "author": "Mrlluck",
+      "title": "Oh yes, I can finally play some gta v",
+      "post_hint": "image",
+      "url": "https://i.redd.it/7zhbpr5f0vy41.jpg"
+    },
+    {
+      "author": "Jinglejr",
+      "title": "They are some greedy ones",
+      "post_hint": "image",
+      "url": "https://i.redd.it/44g9h668t3y51.jpg"
+    },
+    {
+      "author": "Jommy69",
+      "title": "All the help we can give",
+      "post_hint": "image",
+      "url": "https://i.redd.it/qeqvx12x94e61.jpg"
+    },
+    {
+      "author": "ZyleErelis",
+      "title": "Every time",
+      "post_hint": "image",
+      "url": "https://i.redd.it/42vflyu4ykz51.jpg"
+    },
+    {
+      "author": "Dexdeman",
+      "title": "Turns out nobody ever answered him",
+      "post_hint": "image",
+      "url": "https://i.redd.it/d06yv5u08c761.jpg"
+    },
+    {
+      "author": "anoreksicni",
+      "title": "Its all coming together",
+      "post_hint": "image",
+      "url": "https://i.redd.it/0wbivqv9nvr31.jpg"
+    },
+    {
+      "author": "Snoo-47666",
+      "title": "I have no idea whatsoever",
+      "post_hint": "image",
+      "url": "https://i.redd.it/xz83gt7jlxu61.gif"
+    },
+    {
+      "author": "8eloZer0",
+      "title": "Shut it off",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2aq8edkojow31.jpg"
+    },
+    {
+      "author": "saucy-mel",
+      "title": "did it happen to all of us?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/9kvm8knv5v961.jpg"
+    },
+    {
+      "author": "crackercharlie",
+      "title": "Quick, while the British are sleeping.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/e3zwkg6zfma61.jpg"
+    },
+    {
+      "author": "AutisticPotato13",
+      "title": "*happy bubonic noises*",
+      "post_hint": "image",
+      "url": "https://i.redd.it/n7lh6x2wz7841.jpg"
+    },
+    {
+      "author": "Agoevan05",
+      "title": "Hot climate",
+      "post_hint": "image",
+      "url": "https://i.redd.it/uqh27jjj8bu61.jpg"
+    },
+    {
+      "author": "Robo2627",
+      "title": "Seriously",
+      "post_hint": "image",
+      "url": "https://i.redd.it/k47mb3l46c451.jpg"
+    },
+    {
+      "author": "rock_8",
+      "title": "Harold should be meme of the decade",
+      "post_hint": "image",
+      "url": "https://i.redd.it/uip0indm0m741.jpg"
+    },
+    {
+      "author": "[deleted]",
+      "title": "Makes the calculations simpler",
+      "post_hint": "image",
+      "url": "https://i.redd.it/v7opjah2ck461.gif"
+    },
+    {
+      "author": "SuperAlloyBerserker",
+      "title": "I'm convinced the paparazzi are sociopaths",
+      "post_hint": "hosted:video",
+      "url": "https://v.redd.it/fk9xpew8wnl71"
+    },
+    {
+      "author": "BLaRowe10",
+      "title": "She has probably made 60k in the amount of time it took me to make this meme",
+      "post_hint": "image",
+      "url": "https://i.redd.it/7d9x3zq7dlo61.jpg"
+    },
+    {
+      "author": "OmarIbnKhayyam",
+      "title": "Thanks a lot brain",
+      "post_hint": "image",
+      "url": "https://i.redd.it/69g5axregoz61.jpg"
+    },
+    {
+      "author": "AmaterasuWolf21",
+      "title": "I love Amusement Parks",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hl71dyelq4a51.png"
+    },
+    {
+      "author": "aykay55",
+      "title": "Your silly warning cannot stop me",
+      "post_hint": "image",
+      "url": "https://i.redd.it/wdgjpcm6v5t61.jpg"
+    },
+    {
+      "author": "MrCuteDiaper",
+      "title": "Excuse me.. Wtf?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/1owkm5r3wi561.gif"
+    },
+    {
+      "author": "DaRealWookie",
+      "title": "not this shit again",
+      "post_hint": "image",
+      "url": "https://i.redd.it/6e6z2me93zp61.png"
+    },
+    {
+      "author": "[deleted]",
+      "title": "Last online *October*",
+      "post_hint": "image",
+      "url": "https://i.redd.it/1lprd5j4c4a61.jpg"
+    },
+    {
+      "author": "_clickhere_",
+      "title": "One of the happiest moments in life",
+      "post_hint": "image",
+      "url": "https://i.redd.it/rnn14f29gf551.jpg"
+    },
+    {
+      "author": "slashth456",
+      "title": "I thought only I could do that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/1zq5hsvzytk61.jpg"
+    },
+    {
+      "author": "jp9544",
+      "title": "Universal guide to men's nodding. Made in Paint.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/qldrdzcjj7n61.png"
+    },
+    {
+      "author": "minorthreat1000",
+      "title": "Didn’t think about that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/yw52evjtlw061.jpg"
+    },
+    {
+      "author": "Onfour",
+      "title": "Maybe she's hard to forget",
+      "post_hint": "image",
+      "url": "https://i.redd.it/1cznolix8ik51.jpg"
+    },
+    {
+      "author": "EpicWizard123",
+      "title": "I'm the captain now",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ejfv5dfq52e61.gif"
+    },
+    {
+      "author": "CHXR1Z",
+      "title": "Man got scared asf",
+      "post_hint": "image",
+      "url": "https://i.redd.it/l2ldkoiuirt61.gif"
+    },
+    {
+      "author": "[deleted]",
+      "title": "Helicopter goes brrrr",
+      "post_hint": "image",
+      "url": "https://i.redd.it/j0u8g9pxa4n51.png"
+    },
+    {
+      "author": "Zelderian",
+      "title": "iOS 14 bout to expose some people",
+      "post_hint": "image",
+      "url": "https://i.redd.it/eb6pssvrhu751.jpg"
+    },
+    {
+      "author": "Ikebear2",
+      "title": "Microsoft word",
+      "post_hint": "hosted:video",
+      "url": "https://v.redd.it/65w13eorjax61"
+    },
+    {
+      "author": "nechdoesntno",
+      "title": "The Darwin Incident",
+      "post_hint": "image",
+      "url": "https://i.redd.it/otvjol1ea9y81.gif"
+    },
+    {
+      "author": "dcxr",
+      "title": "they belong in arkham",
+      "post_hint": "image",
+      "url": "https://i.redd.it/v0eic0ly0rj51.jpg"
+    },
+    {
+      "author": "big-nicks-dick-muget",
+      "title": "nro that feeling",
+      "post_hint": "image",
+      "url": "https://i.redd.it/vp4wdmsoz4c51.jpg"
+    },
+    {
+      "author": "aSaucyDragon",
+      "title": "That was a close one",
+      "post_hint": "image",
+      "url": "https://i.redd.it/da8h2xbjepu51.jpg"
+    },
+    {
+      "author": "BeyondFootball",
+      "title": "languages in a nutshell",
+      "post_hint": "image",
+      "url": "https://i.redd.it/j9u89ekcbbe41.png"
+    },
+    {
+      "author": "Amaan_k",
+      "title": "Here comes the Hangover train",
+      "post_hint": "image",
+      "url": "https://i.redd.it/6ftjoen8i9g51.jpg"
+    },
+    {  
     title: "Modern parents",
     url: "https://images2.memedroid.com/images/UPLOADED53/52658488d0f90.jpeg"
     },  
@@ -1462,7 +2487,608 @@ module.exports = async (req, res) => {
     {  
     title: ":)",
     url: "https://images2.memedroid.com/images/UPLOADED5/511d8c2acb030.jpeg"
-    },  
+    },
+    
+    {
+      "author": "jojo-cumstar",
+      "title": "Can't lie, I couldn't decipher it myself",
+      "post_hint": "image",
+      "url": "https://i.redd.it/y4y2ft0e8wgb1.jpg"
+    },
+    {
+      "author": "JustaTacoTree",
+      "title": "hardly anyone talks about it",
+      "post_hint": "image",
+      "url": "https://i.redd.it/vv06telywbhb1.png"
+    },
+    {
+      "author": "Baloopa3",
+      "title": "It’s the perfect opportunity…",
+      "post_hint": "image",
+      "url": "https://i.redd.it/mp69f4yol9eb1.jpg"
+    },
+    {
+      "author": "for_sure_not_a_lama",
+      "title": "The fact some people actually think this... (shrek)",
+      "post_hint": "image",
+      "url": "https://i.redd.it/trfxm7pleggb1.png"
+    },
+    {
+      "author": "Supersaiajinblue",
+      "title": "Tf I even do in the first place?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/34s5d17et7db1.jpg"
+    },
+    {
+      "author": "demigodofnothing",
+      "title": "Man played both sides and came on top both times",
+      "post_hint": "image",
+      "url": "https://i.redd.it/xm5q0go1ypeb1.png"
+    },
+    {
+      "author": "Zima_Blu_",
+      "title": "Just…why?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/oy9fvvp2yfhb1.jpg"
+    },
+    {
+      "author": "analoguepitt701",
+      "title": "Seriously we love em all",
+      "post_hint": "image",
+      "url": "https://i.redd.it/fj411kkdjqcb1.jpg"
+    },
+    {
+      "author": "bountyhunterfromhell",
+      "title": "Well, is not like a catastrophic event or something. Oh, wait",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hzur4wblfceb1.jpg"
+    },
+    {
+      "author": "thepositivepandemic",
+      "title": "Woman destroyer.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/n9xende0rlcb1.jpg"
+    },
+    {
+      "author": "Havocfyw",
+      "title": "\"Fiona has that glow about her.\"",
+      "post_hint": "image",
+      "url": "https://i.redd.it/u18og2abi2gb1.jpg"
+    },
+    {
+      "author": "Bangbang9824",
+      "title": "\"The idol\" left the chat",
+      "post_hint": "image",
+      "url": "https://i.redd.it/83qvgh5ow2hb1.jpg"
+    },
+    {
+      "author": "SkepticDrinker",
+      "title": "guy cry",
+      "post_hint": "image",
+      "url": "https://i.redd.it/4tup6s0974db1.gif"
+    },
+    {
+      "author": "GolettO3",
+      "title": "Do they do it just to be a bag of Richards?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/uk78xighthfb1.jpg"
+    },
+    {
+      "author": "moebiuz36",
+      "title": "It worked so well",
+      "post_hint": "image",
+      "url": "https://i.imgur.com/SOG0ndq.jpg"
+    },
+    {
+      "author": "WUFI_junior",
+      "title": "Yes I’m an introvert how did you know?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/s6fuxc3hu8fb1.jpg"
+    },
+    {
+      "author": "Simonoide_BellosO",
+      "title": "Should we tell them, Donkey fellas...?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/xyffy42qrhgb1.jpg"
+    },
+    {
+      "author": "Pyramidon7",
+      "title": "Sorry but the problem is mutual.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/97nfygd6ayeb1.png"
+    },
+    {
+      "author": "JohnAdams4621",
+      "title": "It took til he was 44 to learn something I knew when I was 5",
+      "post_hint": "image",
+      "url": "https://i.redd.it/98z1r2ydz5cb1.gif"
+    },
+    {
+      "author": "Meseion",
+      "title": "What does DS stand for?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/zi2uz2vmjzdb1.jpg"
+    },
+    {
+      "author": "Killmumger",
+      "title": "Honestly love how the EU doesn't take any of their bullshit",
+      "post_hint": "image",
+      "url": "https://i.redd.it/a4vk5p0umqdb1.jpg"
+    },
+    {
+      "author": "This_Is_A_Bucket_420",
+      "title": "Guess who's back",
+      "post_hint": "image",
+      "url": "https://i.redd.it/n1596od8d7eb1.gif"
+    },
+    {
+      "author": "blurry_face_exe",
+      "title": "This is getting absurd",
+      "post_hint": "image",
+      "url": "https://i.redd.it/0h59mifft9cb1.jpg"
+    },
+    {
+      "author": "elch3w",
+      "title": "Thats how its going",
+      "post_hint": "image",
+      "url": "https://i.redd.it/totxip19k6db1.jpg"
+    },
+    {
+      "author": "oranke_dino",
+      "title": "It has many nutrient.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hzg97p7baccb1.gif"
+    },
+    {
+      "author": "AestheticMirror",
+      "title": "Whoever made that decision deserves a raise",
+      "post_hint": "image",
+      "url": "https://i.redd.it/oudje9j0qxcb1.jpg"
+    },
+    {
+      "author": "Ok-Fail-540",
+      "title": "I know what to write here",
+      "post_hint": "image",
+      "url": "https://i.redd.it/g3pdjpdtrscb1.png"
+    },
+    {
+      "author": "MahmoudAO",
+      "title": "Stop being not cool",
+      "post_hint": "image",
+      "url": "https://i.redd.it/494c6ovdeafb1.jpg"
+    },
+    {
+      "author": "Sonicmaster06",
+      "title": "Scum of the earth",
+      "post_hint": "image",
+      "url": "https://i.redd.it/kwg4p7ip5ihb1.jpg"
+    },
+    {
+      "author": "Green_Army_Man",
+      "title": "This is bullshit",
+      "post_hint": "image",
+      "url": "https://i.redd.it/icx8fofly6eb1.jpg"
+    },
+    {
+      "author": "PossessionCorrect829",
+      "title": "I just wanted to watch wholesome bomb man movie",
+      "post_hint": "image",
+      "url": "https://i.redd.it/wslcx0czh6hb1.jpg"
+    },
+    {
+      "author": "thepositivepandemic",
+      "title": "You lied to me.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/javz9duosddb1.gif"
+    },
+    {
+      "author": "Andreus",
+      "title": "Minty fresh",
+      "post_hint": "image",
+      "url": "https://i.redd.it/f4ba1kf6y4db1.jpg"
+    },
+    {
+      "author": "Kondrad_Curze",
+      "title": "Let's say they're real. Then what?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2ukpox8daoeb1.png"
+    },
+    {
+      "author": "Zookeeper_of_303",
+      "title": "Dreamworks has a mixed output",
+      "post_hint": "image",
+      "url": "https://i.redd.it/jj2fzljxa2eb1.jpg"
+    },
+    {
+      "author": "Janski_T",
+      "title": "Science as it is...",
+      "post_hint": "image",
+      "url": "https://i.redd.it/xpqn4tw929hb1.png"
+    },
+    {
+      "author": "roadtrippa88",
+      "title": "Barbie movie plot similarities with The Lego Movie",
+      "post_hint": "image",
+      "url": "https://i.redd.it/kjtf2zdesheb1.jpg"
+    },
+    {
+      "author": "ChocoGoodness",
+      "title": "What am annoying person",
+      "post_hint": "image",
+      "url": "https://i.redd.it/dbe78d1fnteb1.jpg"
+    },
+    {
+      "author": "JuJicleez",
+      "title": "Meta screwed",
+      "post_hint": "image",
+      "url": "https://i.redd.it/olipmhgrecdb1.gif"
+    },
+    {
+      "author": "opum123",
+      "title": "They have build an island the size of a country!",
+      "post_hint": "image",
+      "url": "https://i.imgur.com/tXHPM6B.jpg"
+    },
+    {
+      "author": "iou_uu",
+      "title": "The hearing was wild",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ndvehqh8adeb1.jpg"
+    },
+    {
+      "author": "hector-the-dragon",
+      "title": "What a fucking loser.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/5nysfl1oxveb1.gif"
+    },
+    {
+      "author": "LoveThieves",
+      "title": "Summer Tickets for What?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/g0mvmuig4kfb1.jpg"
+    },
+    {
+      "author": "NinjaBreadManOO",
+      "title": "It's weird right?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/x2qnoo0f3wbb1.png"
+    },
+    {
+      "author": "TheEnterVert",
+      "title": "What's the deal with this haircut?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/cxq3g4ktwlhb1.jpg"
+    },
+    {
+      "author": "TheGreatJaceyGee",
+      "title": "Experience is the most effective teacher. It is also the cruelest.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ogiv1wti0zcb1.gif"
+    },
+    {
+      "author": "spez-suck-my-dick",
+      "title": "Each year gets more and more interesting",
+      "post_hint": "image",
+      "url": "https://i.redd.it/oww4ptk7fgeb1.jpg"
+    },
+    {
+      "author": "amenotekijara",
+      "title": "Being like Donkey is not that bad",
+      "post_hint": "image",
+      "url": "https://i.redd.it/kezijrlruufb1.jpg"
+    },
+    {
+      "author": "QuintessentialIdiot",
+      "title": "Poor Donkey, this isn't going to end well",
+      "post_hint": "image",
+      "url": "https://i.redd.it/klpku89fq6gb1.jpg"
+    },
+    {
+      "author": "Adrew6677",
+      "title": "It was actually very sad to read about.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ee9waftxr8cb1.gif"
+    },
+    {
+      "author": "asilvertintedrose",
+      "title": "We are about to enter a golden age of insults",
+      "post_hint": "image",
+      "url": "https://i.redd.it/0wmag0g51vgb1.png"
+    },
+    {
+      "author": "INVWVZ",
+      "title": "Spotify Free is ridiculous.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/msnk03vogzbb1.jpg"
+    },
+    {
+      "author": "DanieleMemoli",
+      "title": "Everyone the best of their saga &lt;3",
+      "post_hint": "image",
+      "url": "https://i.redd.it/o3jsn53tqvdb1.png"
+    },
+    {
+      "author": "Braedon___",
+      "title": "Strong Female Character",
+      "post_hint": "image",
+      "url": "https://i.redd.it/qbzh1dh5exgb1.jpg"
+    },
+    {
+      "author": "StaygSane",
+      "title": "I know you know that I know that you do",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2335pavcyccb1.jpg"
+    },
+    {
+      "author": "thepositivepandemic",
+      "title": "New Yawk.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ew2qpoc2xccb1.jpg"
+    },
+    {
+      "author": "Revolutionary_Crew80",
+      "title": "It's worse than Shrek 3",
+      "post_hint": "image",
+      "url": "https://i.redd.it/bscz8g5nuegb1.png"
+    },
+    {
+      "author": "snowchild3101",
+      "title": "Winter are better",
+      "post_hint": "image",
+      "url": "https://i.redd.it/5uuqjo8vmccb1.gif"
+    },
+    {
+      "author": "albela_bhai-op",
+      "title": "guys are weird girls are weird",
+      "post_hint": "image",
+      "url": "https://i.redd.it/62x27ttt6jeb1.jpg"
+    },
+    {
+      "author": "WSKYLANDERS-boh",
+      "title": "Well, math has proven to be correct multiple times, sooo",
+      "post_hint": "image",
+      "url": "https://i.redd.it/jj4k8mxl1keb1.jpg"
+    },
+    {
+      "author": "JackTheRaimbowlogist",
+      "title": "He's just a guy who swore he heard things from other guys.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hek18zeeokeb1.jpg"
+    },
+    {
+      "author": "MrNice-Guy123",
+      "title": "Shrek fans will not like that",
+      "post_hint": "image",
+      "url": "https://i.redd.it/lgcwk7a39kgb1.jpg"
+    },
+    {
+      "author": "thepositivepandemic",
+      "title": "Give me a good beat, and they’ll care not what I say.",
+      "post_hint": "link",
+      "url": "https://i.imgur.com/b64efnr.gifv"
+    },
+    {
+      "author": "wheredatacos",
+      "title": "I could’ve gone forever",
+      "post_hint": "image",
+      "url": "https://i.redd.it/rs3yxea92nhb1.jpg"
+    },
+    {
+      "author": "amenotekijara",
+      "title": "If Shrek approves so do I",
+      "post_hint": "image",
+      "url": "https://i.redd.it/z6n25j9gjnfb1.jpg"
+    },
+    {
+      "author": "LemonConnoiseur",
+      "title": "42 years old and sound dorky af",
+      "post_hint": "image",
+      "url": "https://i.redd.it/alhhkfp31jdb1.jpg"
+    },
+    {
+      "author": "luxusbuerg",
+      "title": "English language logic",
+      "post_hint": "image",
+      "url": "https://i.redd.it/eomhf4wxq9hb1.jpg"
+    },
+    {
+      "author": "NCR_Veteran_Rangers",
+      "title": "Now I Have To Pay 10k Dollars In Medical Fees",
+      "post_hint": "hosted:video",
+      "url": "https://v.redd.it/q6zd3l7nsvgb1"
+    },
+    {
+      "author": "TowerAcrobatic9311",
+      "title": "Exactly, which leader must we take you guys to?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ul6v6zh3bheb1.jpg"
+    },
+    {
+      "author": "WhippetRun",
+      "title": "Why do we have fingers and noses even",
+      "post_hint": "image",
+      "url": "https://i.redd.it/wt6av24m8cfb1.jpg"
+    },
+    {
+      "author": "ihavebirb",
+      "title": "Pick your poison",
+      "post_hint": "image",
+      "url": "https://i.redd.it/rlnij5ifakfb1.jpg"
+    },
+    {
+      "author": "ApartSweeten843",
+      "title": "F in the chat",
+      "post_hint": "image",
+      "url": "https://i.redd.it/cqudwjrkq4cb1.jpg"
+    },
+    {
+      "author": "ArizonaMadeDank",
+      "title": "childhood ruined.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/5zezqvpbmycb1.jpg"
+    },
+    {
+      "author": "somnum_osseus",
+      "title": "Allosaurus, 100%.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/ue4i4q5b3bcb1.jpg"
+    },
+    {
+      "author": "PokeChampMarx",
+      "title": "Must hide our shame",
+      "post_hint": "image",
+      "url": "https://i.redd.it/4khxyyyi9scb1.jpg"
+    },
+    {
+      "author": "moolfa",
+      "title": "Ahhhhh, the temptation...",
+      "post_hint": "image",
+      "url": "https://i.redd.it/c6uu681juhfb1.jpg"
+    },
+    {
+      "author": "DaNoahLP",
+      "title": "Didnt know what to say",
+      "post_hint": "image",
+      "url": "https://i.redd.it/jx4y12zhajcb1.jpg"
+    },
+    {
+      "author": "sylvestermeister",
+      "title": "It's all about leeway",
+      "post_hint": "image",
+      "url": "https://i.redd.it/o0r4eznrtrcb1.gif"
+    },
+    {
+      "author": "AestheticMirror",
+      "title": "They’ve been \"confirming\" aliens for a while now with no actual evidence, show us something. Guess I’ll believe it when I see it",
+      "post_hint": "image",
+      "url": "https://i.redd.it/hex51xhvopeb1.jpg"
+    },
+    {
+      "author": "No-Law6950",
+      "title": "Shrek the patriot",
+      "post_hint": "image",
+      "url": "https://i.redd.it/x1at18wyxmgb1.jpg"
+    },
+    {
+      "author": "basegeb",
+      "title": "MOVE THE FUCKING MOUSE",
+      "post_hint": "image",
+      "url": "https://i.redd.it/dbl107hznhcb1.jpg"
+    },
+    {
+      "author": "RadaRAW",
+      "title": "Can you blame them?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/l0rgmx3cgheb1.jpg"
+    },
+    {
+      "author": "Parker1055",
+      "title": "Always doing weird stuff",
+      "post_hint": "image",
+      "url": "https://i.redd.it/lahyr22jjxbb1.gif"
+    },
+    {
+      "author": "ConanCimmerian",
+      "title": "Poor Hollywood... not",
+      "post_hint": "image",
+      "url": "https://i.redd.it/fod87ep4v4cb1.jpg"
+    },
+    {
+      "author": "Slapthatlobster",
+      "title": "\"Americans just don't know ANYTHING\"",
+      "post_hint": "image",
+      "url": "https://i.redd.it/jw1cinjerqcb1.gif"
+    },
+    {
+      "author": "Slink_64bit",
+      "title": "Barbie or Oppenheimer",
+      "post_hint": "image",
+      "url": "https://i.redd.it/99qiq9fvu1db1.jpg"
+    },
+    {
+      "author": "johnlen1n",
+      "title": "Poor choice of words, Fiona",
+      "post_hint": "image",
+      "url": "https://i.redd.it/dq177pivnjgb1.gif"
+    },
+    {
+      "author": "oranke_dino",
+      "title": "Father (not responding)",
+      "post_hint": "image",
+      "url": "https://i.redd.it/qc3egik6lqeb1.jpg"
+    },
+    {
+      "author": "chechebi88",
+      "title": "Who are you in those teams?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/apcxe1ay5geb1.jpg"
+    },
+    {
+      "author": "jimmyapril19",
+      "title": "Break ups vs Divorces",
+      "post_hint": "image",
+      "url": "https://i.redd.it/mtmcwlinowgb1.jpg"
+    },
+    {
+      "author": "JuhasReddit",
+      "title": "Edge begged me not to when I tried downloading Chrome from it...",
+      "post_hint": "image",
+      "url": "https://i.redd.it/fk2iqhfsdhhb1.jpg"
+    },
+    {
+      "author": "Dfuhru22",
+      "title": "Basically",
+      "post_hint": "image",
+      "url": "https://i.redd.it/2j3osmb0k5eb1.jpg"
+    },
+    {
+      "author": "searcheese766",
+      "title": "Honestly why couldnt they think of that?",
+      "post_hint": "image",
+      "url": "https://i.redd.it/s3ju8ryyzveb1.png"
+    },
+    {
+      "author": "Ben_Pars",
+      "title": "Shrek is shocked",
+      "post_hint": "image",
+      "url": "https://i.redd.it/vtmya4b0wqfb1.jpg"
+    },
+    {
+      "author": "TheWTFGuyOfficial",
+      "title": "Wait... So you are saying I have to...",
+      "post_hint": "image",
+      "url": "https://i.redd.it/suwg34bsdycb1.gif"
+    },
+    {
+      "author": "TheWTFGuyOfficial",
+      "title": "I wish we could turn back time...",
+      "post_hint": "image",
+      "url": "https://i.redd.it/9ewwttkdsvdb1.gif"
+    },
+    {
+      "author": "ShaidarHaran2",
+      "title": "We are all him",
+      "post_hint": "image",
+      "url": "https://i.redd.it/cf06ke6q6tcb1.jpg"
+    },
+    {
+      "author": "BladerTCTN",
+      "title": "Hey look, it's Mario.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/8cs3xf8oeidb1.jpg"
+    },
+    {
+      "author": "Yuurimakitsu",
+      "title": "i mean, it's that simple, right?[Shrek]",
+      "post_hint": "image",
+      "url": "https://i.redd.it/avcri9564cgb1.jpg"
+    },
+    {
+      "author": "hector-the-dragon",
+      "title": "Now. Do it now.",
+      "post_hint": "image",
+      "url": "https://i.redd.it/now2ol2ke6eb1.gif"
+    },
     {  
     title: "Mwahhhh",
     url: "https://images5.memedroid.com/images/UPLOADED12/515a3d1ee5df7.jpeg"
